@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/coyotespeaks.bsky.social
+    - icon: twitter-x
+      text: X, the Everything App
+      href: https://x.com/coyotejacques
+    - icon: envelope
+      text: Email
+      href: mailto:Coyote.Speaks@gmail.com
+
+---
+
+My name is Jack LaRoche (they/them). Folklorist, animal rehabber, and werewolf enthusiast.

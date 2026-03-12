@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  description: "For all things Jack LaRoche"
+  site-url: https://JackLaRoche.github.io # you must change this appropriately for RSS feeds to work properly
+  title: "Jack LaRoche"
+  navbar:
+    right:
+      - about.qmd
+      - icon: bluesky
+        href: https://bsky.app/profile/coyotespeaks.bsky.social
+      - icon: twitter-x
+        href: https://x.com/coyotejacques
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
