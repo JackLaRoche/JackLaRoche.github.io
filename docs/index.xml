@@ -10,28 +10,7 @@
 <atom:link href="https://JackLaRoche.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>For all things Jack LaRoche</description>
 <generator>quarto-1.9.35</generator>
-<lastBuildDate>Sat, 14 Mar 2026 04:00:00 GMT</lastBuildDate>
-<item>
-  <title>Bienvenue</title>
-  <dc:creator>Jack LaRoche</dc:creator>
-  <link>https://JackLaRoche.github.io/posts/2026-03-10-welcome copy/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the second post in my blog. Welcome!</p>
-<p><img src="https://JackLaRoche.github.io/posts/2026-03-10-welcome copy/thumbnail.png" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://JackLaRoche.github.io/posts/2026-03-10-welcome copy/</guid>
-  <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Tue, 10 Mar 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Jack LaRoche</dc:creator>
@@ -52,6 +31,36 @@
   <category>News</category>
   <guid>https://JackLaRoche.github.io/posts/2026-03-10-welcome/</guid>
   <pubDate>Tue, 10 Mar 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Werewolves of the Bayou Bibliography</title>
+  <dc:creator>Jack LaRoche</dc:creator>
+  <link>https://JackLaRoche.github.io/posts/2026-01-10-werewolves-bibliography/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="rougarou-bibliography" class="level1">
+<h1>Rougarou Bibliography</h1>
+<p><strong>Werewolf Histories</strong> Willem de Blecourt</p>
+<p><strong>The Book of Were-Wolves</strong> Sabine Baring-Gould</p>
+<p><strong>Witches, Werewolves, and Fairies: Shapeshifters and Astral Doubles in the Middle Ages</strong> Claude Lecouteux</p>
+<p><strong>Swapping Stories: Folktales from Louisiana</strong> Edited by Carl Lindahl, Maida Owens, and C. Renee Harvison</p>
+<p><strong>Folklore Figures of French and Creole Louisiana</strong> Nathan J. Rabalais</p>
+<p><img src="https://JackLaRoche.github.io/posts/2026-01-10-werewolves-bibliography/thumbnail.png" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>QAA</category>
+  <category>Bibliography</category>
+  <category>Werewolves</category>
+  <guid>https://JackLaRoche.github.io/posts/2026-01-10-werewolves-bibliography/</guid>
+  <pubDate>Sat, 10 Jan 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
