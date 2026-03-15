@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "posts/2026-03-10-welcome/index.html",
-    "href": "posts/2026-03-10-welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/2026-03-10-welcome copy/index.html",
+    "href": "posts/2026-03-10-welcome copy/index.html",
+    "title": "Bienvenue",
     "section": "",
     "text": "This is the first post in my blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jack LaRoche",
+    "section": "",
+    "text": "Bienvenue\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nMar 14, 2026\n\n\nJack LaRoche\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nMar 10, 2026\n\n\nJack LaRoche\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -14,10 +21,10 @@
     "text": "My name is Jack LaRoche (they/them). Folklorist, animal rehabber, and werewolf enthusiast."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jack LaRoche",
+    "objectID": "posts/2026-03-10-welcome/index.html",
+    "href": "posts/2026-03-10-welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nMar 10, 2026\n\n\nJack LaRoche\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in my blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

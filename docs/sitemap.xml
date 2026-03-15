@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://JackLaRoche.github.io/posts/2026-03-10-welcome/index.html</loc>
-    <lastmod>2026-03-12T10:28:09.210Z</lastmod>
-  </url>
-  <url>
-    <loc>https://JackLaRoche.github.io/about.html</loc>
-    <lastmod>2026-03-12T00:21:10.581Z</lastmod>
+    <loc>https://JackLaRoche.github.io/posts/2026-03-10-welcome copy/index.html</loc>
+    <lastmod>2026-03-15T00:24:21.655Z</lastmod>
   </url>
   <url>
     <loc>https://JackLaRoche.github.io/index.html</loc>
-    <lastmod>2026-03-12T00:21:10.581Z</lastmod>
+    <lastmod>2026-03-15T00:20:17.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JackLaRoche.github.io/about.html</loc>
+    <lastmod>2026-03-15T00:20:17.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JackLaRoche.github.io/posts/2026-03-10-welcome/index.html</loc>
+    <lastmod>2026-03-15T00:22:01.076Z</lastmod>
   </url>
 </urlset>
