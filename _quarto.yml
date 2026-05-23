@@ -13,6 +13,8 @@ website:
         href: https://bsky.app/profile/coyotespeaks.bsky.social
       - icon: twitter-x
         href: https://x.com/coyotejacques
+      - icon: instagram
+        href: https://www.instagram.com/thisamericanjackal
 format:
   html:
     theme:

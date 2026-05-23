@@ -10,6 +10,9 @@ about:
     - icon: twitter-x
       text: X, the Everything App
       href: https://x.com/coyotejacques
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/thisamericanjackal
     - icon: envelope
       text: Email
       href: mailto:Coyote.Speaks@gmail.com
