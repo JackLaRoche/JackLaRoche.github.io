@@ -10,7 +10,39 @@
 <atom:link href="https://JackLaRoche.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>For all things Jack LaRoche</description>
 <generator>quarto-1.9.32</generator>
-<lastBuildDate>Sat, 28 Feb 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Case of the Cottingley Faeries Bibliography</title>
+  <dc:creator>Jack LaRoche</dc:creator>
+  <link>https://JackLaRoche.github.io/posts/2026-03-14-cottingley-faeries-bibliography/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-case-of-the-cottingley-faeries-bibliography" class="level1">
+<h1>The Case of the Cottingley Faeries Bibliography</h1>
+<p><img src="https://JackLaRoche.github.io/posts/2026-03-14-cottingley-faeries-bibliography/thumbnail.jpg" class="img-fluid"></p>
+<p><strong>The Case of the Cottingley Fairies</strong> Joe Cooper</p>
+<p><strong>The Coming of the Fairies</strong> <a href="https://www.gutenberg.org/ebooks/47506">Sir Arthur Conan Doyle</a></p>
+<p><strong>The Doyle Diary</strong> <a href="https://archive.org/details/doylediarylastgr0000doyl">Charles Altamont Doyle</a></p>
+<p><strong>The History of Spiritualism, Vol. 1</strong> <a href="https://gutenberg.net.au/ebooks03/0301051h.html">Sir Arthur Conan Doyle</a></p>
+<p><strong>The History of Spiritualism, Vol. 2</strong> <a href="https://gutenberg.net.au/ebooks03/0301061h.htm">Sir Arthur Conan Doyle</a></p>
+<p><strong>The Man Who Created Sherlock Holmes: The Life and Times of Sir Arthur Conan Doyle</strong> Andrew Lycett</p>
+
+
+</section>
+
+ ]]></description>
+  <category>QAA</category>
+  <category>Bibliography</category>
+  <category>Faeries</category>
+  <category>Folklore</category>
+  <category>Hoaxes</category>
+  <guid>https://JackLaRoche.github.io/posts/2026-03-14-cottingley-faeries-bibliography/</guid>
+  <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Polybius Lives! Parts 1 and 2 Bibliography</title>
   <dc:creator>Jack LaRoche</dc:creator>
@@ -39,6 +71,7 @@
   <category>QAA</category>
   <category>Bibliography</category>
   <category>Urban Legends</category>
+  <category>Hoaxes</category>
   <category>Video Games</category>
   <guid>https://JackLaRoche.github.io/posts/2026-02-28-polybius-bibliography/</guid>
   <pubDate>Sat, 28 Feb 2026 05:00:00 GMT</pubDate>

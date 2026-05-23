@@ -3,7 +3,7 @@ title: "Polybius Lives! Parts 1 and 2 Bibliography"
 description: "Bibliography for Premium Episodes 324, 325 - Polybius Lives! Parts 1 and 2"
 author: "Jack LaRoche"
 date: "2026-02-28"
-categories: [QAA, Bibliography, Urban Legends, Video Games]
+categories: [QAA, Bibliography, Urban Legends, Hoaxes, Video Games]
 ---
 
 # Polybius Lives! Bibliography
