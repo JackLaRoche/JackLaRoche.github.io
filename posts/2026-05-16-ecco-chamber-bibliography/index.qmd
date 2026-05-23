@@ -23,7 +23,7 @@ categories: [QAA, Bibliography, Wildlife, Science, New Age, CIA]
 [John C Lilly](https://archive.org/details/scientistnovelau00lill)
 
 **KUBARK Counterintelligence Interrogation, 1963**
-U.S. Central Intelligence Agency
+[U.S. Central Intelligence Agency](https://archive.org/details/cia-kubark-interrogation-manual/CIA%20Kubark%201-60/)
 
 **Special Considerations of Modified Human Agents as Reconnaissance and Intelligence Devices**
 John C Lilly
