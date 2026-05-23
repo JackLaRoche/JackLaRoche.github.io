@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://JackLaRoche.github.io/posts/2026-01-10-werewolves-bibliography/index.html</loc>
-    <lastmod>2026-03-15T01:23:37.401Z</lastmod>
-  </url>
-  <url>
-    <loc>https://JackLaRoche.github.io/index.html</loc>
-    <lastmod>2026-03-15T00:20:17.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://JackLaRoche.github.io/about.html</loc>
-    <lastmod>2026-03-15T00:20:17.018Z</lastmod>
+    <loc>https://JackLaRoche.github.io/posts/2026-02-28-polybius-bibliography/index.html</loc>
+    <lastmod>2026-05-23T20:15:18.569Z</lastmod>
   </url>
   <url>
     <loc>https://JackLaRoche.github.io/posts/2026-01-01-welcome/index.html</loc>
-    <lastmod>2026-03-15T01:12:32.482Z</lastmod>
+    <lastmod>2026-05-23T19:57:01.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JackLaRoche.github.io/about.html</loc>
+    <lastmod>2026-03-12T00:21:10.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JackLaRoche.github.io/index.html</loc>
+    <lastmod>2026-03-12T00:21:10.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JackLaRoche.github.io/posts/2026-01-10-werewolves-bibliography/index.html</loc>
+    <lastmod>2026-05-23T19:57:01.277Z</lastmod>
   </url>
 </urlset>
