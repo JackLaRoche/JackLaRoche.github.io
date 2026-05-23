@@ -7,6 +7,8 @@ categories: [QAA, Bibliography, Werewolves]
 
 # Rougarou Bibliography
 
+![](thumbnail.jpg)
+
 **Werewolf Histories**
 Willem de Blecourt
 

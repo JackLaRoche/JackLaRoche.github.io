@@ -7,6 +7,8 @@ categories: [QAA, Bibliography, Urban Legends, Video Games]
 
 # Polybius Lives! Bibliography
 
+![](thumbnail.jpeg)
+
 **Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade**
 Carly A. Kocurek
 
