@@ -6,8 +6,6 @@ date: "2026-02-28"
 categories: [QAA, Bibliography, Urban Legends, Hoaxes, Video Games]
 ---
 
-# Polybius Lives! Bibliography
-
 ![](thumbnail.jpeg)
 
 **Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade**

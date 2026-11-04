@@ -6,8 +6,6 @@ date: "2026-05-16"
 categories: [QAA, Bibliography, Wildlife, Science, New Age, CIA]
 ---
 
-# Evil Neuroscience Part 2 - ECCO Chamber Bibliography
-
 ![](thumbnail.jpeg)
 
 **Programming and Metaprogramming in the Human Biocomputer: Theory and Experiments**

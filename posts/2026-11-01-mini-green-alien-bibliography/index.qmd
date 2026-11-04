@@ -6,8 +6,6 @@ date: "2026-11-01"
 categories: [QAA, Bibliography, Faeries, Folklore, Aliens]
 ---
 
-# My Mini Medieval Green Aliens Bibliography
-
 ![](thumbnail.jpg){fig-align="center" width=50%}
 
 **The Green Children of Woolpit: Chronicles, Fairies, and Facts in Medieval England**

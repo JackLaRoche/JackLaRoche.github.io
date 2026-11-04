@@ -6,8 +6,6 @@ date: "2026-03-14"
 categories: [QAA, Bibliography, Faeries, Folklore, Hoaxes]
 ---
 
-# The Case of the Cottingley Faeries Bibliography
-
 ![](thumbnail.jpg)
 
 **The Case of the Cottingley Fairies**

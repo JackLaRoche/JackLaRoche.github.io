@@ -6,8 +6,6 @@ date: "2026-05-09"
 categories: [QAA, Bibliography, Wildlife, Conservation, Science, New Age]
 ---
 
-# Evil Neuroscience Part 1 - Popping Whale Brains and Suffocating Dolphins Bibliography
-
 ![](thumbnail.jpg)
 
 **Man and Dolphin: Adventures of a New Scientific Frontier**

@@ -3,10 +3,8 @@ title: "Werewolves of the Bayou Bibliography"
 description: "Bibliography for Premium Episode 318 - Werewolves of the Bayou"
 author: "Jack LaRoche"
 date: "2026-01-10"
-categories: [QAA, Bibliography, Werewolves]
+categories: [QAA, Bibliography, Werewolves, Folklore]
 ---
-
-# Rougarou Bibliography
 
 ![](thumbnail.jpg)
 

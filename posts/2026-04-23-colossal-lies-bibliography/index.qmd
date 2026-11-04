@@ -6,8 +6,6 @@ date: "2026-04-23"
 categories: [QAA, Bibliography, Wildlife, Conservation, Science, Tech Bros, Fascism]
 ---
 
-# Deextinction Nightmare Part 2 - Colossal Lies Bibliography
-
 ![](thumbnail.png)
 
 **Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves**
